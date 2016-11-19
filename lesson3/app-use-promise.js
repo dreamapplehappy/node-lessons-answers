@@ -22,11 +22,6 @@ app.get('/', (req, res, next) => {
                     return;
                 }
                 let $element = $(element);
-                //items.push({
-                //    title: $element.attr('title'),
-                //    href: $element.attr('href'),
-                //    topicId: $element.attr('href').slice(7)
-                //});
                 let topicId = $element.attr('href').slice(7);
                 itemsPromise.push(
                     new Promise(
