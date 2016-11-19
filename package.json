@@ -1,0 +1,25 @@
+{
+  "name": "node-lessons-answers",
+  "version": "1.0.0",
+  "description": "learn node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamapplehappy/node-lessons-answers.git"
+  },
+  "author": "dreamapple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamapplehappy/node-lessons-answers/issues"
+  },
+  "homepage": "https://github.com/dreamapplehappy/node-lessons-answers#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "superagent": "^2.3.0",
+    "utility": "^1.9.0"
+  }
+}
