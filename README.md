@@ -7,8 +7,8 @@
 
 ### 课程的章节
 
-+ [x] [Lesson 0: 《搭建 Node.js 开发环境》]](lesson0)
-+ [x] [Lesson 1: 《一个最简单的 express 应用》]](lesson1)
++ [x] [Lesson 0: 《搭建 Node.js 开发环境》](lesson0)
++ [x] [Lesson 1: 《一个最简单的 express 应用》](lesson1)
 + [x] [Lesson 2: 《学习使用外部模块》](lesson2)
 + [x] [Lesson 3: 《使用 superagent 与 cheerio 完成简单爬虫》](lesson3)
 + [x] [Lesson 4: 《使用 eventproxy 控制并发》](lesson4)
